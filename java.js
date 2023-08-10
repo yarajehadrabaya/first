@@ -5,7 +5,7 @@ console.log(fruitEmojis.length);
 console.log(fruitEmojis[0],",",fruitEmojis[9]);
 //3:
 fruitEmojis[10]= "🥝" ;
-console.log(fruitEmojis[10])
+console.log(fruitEmojis)
 //4:
 fruitEmojis.pop()
 console.log(fruitEmojis)
